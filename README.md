@@ -15,7 +15,7 @@
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
-<br/>
+
 ## 🧑‍💻 About Me
 
 - 🚀 A **passionate Frontend Developer** currently diving deep into the world of **Agentic AI**  
