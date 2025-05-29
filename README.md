@@ -46,11 +46,11 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Gadit&show_icons=true&theme=radical" alt="Ali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aligadit1&show_icons=true&theme=radical" alt="Ali's GitHub Stats" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=Ali-Gadit&theme=radical" alt="Ali's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aligadit1&theme=radical" alt="Ali's GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Gadit&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aligadit1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ali-Gadit&label=Profile%20views&color=0e75b6&style=flat" alt="Ali Gadit's profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aligadit1&label=Profile%20views&color=0e75b6&style=flat" alt="Ali Gadit's profile views" />
 </p>
