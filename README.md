@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer & Agentic AI Explorer</h3>
 
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file-JizBToU5oeNJuoa1RS6VKX2m?se=2025-05-21T21%3A32%3A27Z&sp=r&sv=2021-08-06&sr=b&sig=G7PQ%2FQb7TnP7Bxf6ZtgaZw5ArN%2F%2BUKrsb1yMymgaVd8%3D" alt="Ali Gadit's Banner" />
+  <img src="./banner.png" alt="Ali Gadit's Banner" />
 </p>
 
 ---
@@ -13,6 +13,9 @@
 - 🎓 Learning through the **Governor Sindh Initiative – Artificial Intelligence Course**
 - 🧠 Completed frontend development module; now building AI agents with **OpenAI Agent SDK**
 - 🤝 Open to collaborating on AI, automation, and web-based tools
+- 👯 I’m looking to collaborate on OpenSource Projects
+- 📫 How to reach me muhammadaligadit@gmail.com
+- ⚡ Fun fact I love coding and I'm a quick learner.
 
 ---
 
@@ -60,7 +63,7 @@
 - 🌍 Portfolio: [Ali Gadit](https://my-portfolio-two-nu-51.vercel.app)
 - 💼 LinkedIn: [muhammad-ali-gadit](https://www.linkedin.com/in/muhammad-ali-gadit-07932b2b9/)
 - 🐦 X (Twitter): [@Ali__Gadit](https://x.com/Ali__Gadit)
-
+- 📫 Gmail : muhammadaligadit@gmail.com
 ---
 
 <p align="center">
