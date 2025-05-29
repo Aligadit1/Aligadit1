@@ -78,3 +78,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aligadit1&label=Profile%20views&color=0e75b6&style=flat" alt="Ali Gadit's profile views" />
 </p>
+
+ <br/>
+
+ <img align='center'  height="70" alt="Thanks" width="100%" src="./Thanks.svg"/>
